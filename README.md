@@ -42,19 +42,25 @@ Our seeds and crop protection products increase yield, productivity and profit, 
 
 
 ####HOME PAGE:
-![image](https://user-images.githubusercontent.com/113355758/193052758-4ae0ceb5-3a63-4899-9ed9-6baa7aa5b03c.png)
 
 
-###Gallerary page:
-![image](https://user-images.githubusercontent.com/113355758/193053377-68048705-adef-4f0a-9ada-45568179c18c.png)
 
+  ![image](https://user-images.githubusercontent.com/113355758/193272512-259b8204-11b9-4952-aa65-97ac6ff701a3.png)
+ 
+ ###MIDDLE PAGE:
+ 
+ 
+ 
+   ![image](https://user-images.githubusercontent.com/113355758/193272934-cd51ec5a-9d52-4ca5-9832-c406d194481d.png)
 
-##my page:![image](https://user-images.githubusercontent.com/113355758/193056129-ad1b1c36-ad3a-4394-bd4e-42d344d2f5e4.png)
+ 
+ ###CONTACT PAGE:
+ 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/113355758/193272769-3bcba000-8db2-4298-9aa6-f18ffd278b1f.png)
 
-## last page:
-![image](https://user-images.githubusercontent.com/113355758/193056369-ee5260e3-5f52-4f70-8e3d-c7e3dfe18755.png)
-
-
+ 
 ####Healthy World!
 Our seeds and crop protection products increase yield, productivity and profit, and reduce risks by supporting farmer control over where and when a product is needed most.
 
