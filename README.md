@@ -6,7 +6,7 @@
   #### This is the informational bot application has been developed for the accomplishment of the future ready talent internship of future ready talent internship by microsoft,future skill prime,github.
   
   
-  ##project link:-"https://sites.google.com/view/organicfarming-azure/home".
+  ##project link:-https://sites.google.com/view/organicfarming-azure/home?authuser=1.
 
 
 ###project title:
